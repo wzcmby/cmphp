@@ -1,0 +1,16 @@
+{
+    "name": "wzcmby/cmphp",
+    "authors": [
+        {
+            "name": "wzcmby",
+            "email": "wzcmby@qq.com"
+        }
+    ],
+    "require": {},
+	
+	"autoload": {
+        "psr-4": {
+            "demoShow\\": "src/"
+        }
+    }
+}
